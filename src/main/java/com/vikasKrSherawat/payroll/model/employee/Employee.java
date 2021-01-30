@@ -1,4 +1,4 @@
-package com.vikasKrSherawat.payroll.model;
+package com.vikasKrSherawat.payroll.model.employee;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

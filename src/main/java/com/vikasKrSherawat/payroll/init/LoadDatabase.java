@@ -1,6 +1,6 @@
 package com.vikasKrSherawat.payroll.init;
 
-import com.vikasKrSherawat.payroll.model.Employee;
+import com.vikasKrSherawat.payroll.model.employee.Employee;
 import com.vikasKrSherawat.payroll.repository.EmployeeRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
